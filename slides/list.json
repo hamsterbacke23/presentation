@@ -1,6 +1,16 @@
 [
-    "index.md",
+    "index.html",
+    "webdev.html",
+    "engineer.html",
+    "datenbanken.html",
     "content-management.html",
+    "content-management-eval.html",
+    "content-management-eval2.html",
+    "imperia.html",
+    "imperia-eval.html",
     "wysiwyg.html",
-    "wysiwyg.html"
+    "wysiwyg-eval.html",
+    "cope.html",
+    "cope-eval.html",
+    "trends.html"
 ]

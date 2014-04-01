@@ -3,3 +3,15 @@
     box-shadow: none;
     background: none;
 }
+
+.reveal ul {
+    font-size: 0.8em;
+}
+
+.reveal ul li {
+    margin-bottom: 0.4em;
+}
+
+.reveal .element {
+    margin-top: 1em;
+}
